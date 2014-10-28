@@ -1,0 +1,111 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-family: sans-serif;
+	font-size: 13px;
+}
+#wrapper{
+	margin: auto;
+	width: 1000px;
+	height: auto;
+	background: #ffffff;
+	padding-top: 44px;
+}
+.dinhnghia {
+
+}
+.dinhnghia h2{
+	background-color: #5938b4;
+	color: #fff;
+	height: 80px;
+	padding-top: 35px;
+	font-size: 45px;
+	font-family: cursive;
+}
+.dinhnghia p {
+	background-color: #5938b4;
+	color: #fff;
+	font-size: 14px;
+	text-indent: 20px;
+	padding: 5px;
+	padding-bottom: 10px;
+}
+img {
+	padding: 10px;
+}
+.yeuto h2{
+	padding-top: 18px;
+	padding-bottom: 10px;
+	font-size: 45px;
+	color: #fff;
+	background-color: #d34927;
+}
+.simple h4, .hieuung h4, .color h4, .font h4, .sosanh h4{
+	font-size: 35px;
+	color: #701078;
+	margin: 10px;
+	font-family: inherit;
+}
+.simple p {
+	background-color: #03aceb;
+	color: #fff;
+	font-size: 14px;
+	text-indent: 20px;
+	padding: 5px;
+	padding-bottom: 10px;
+}
+.simple img {
+	margin-left: 140px;
+}
+.hieuung p {
+	background-color: #55bb00;
+	color: #fff;
+	font-size: 14px;
+	text-indent: 20px;
+	padding: 5px;
+	padding-bottom: 10px;
+}
+.color p {
+	background-color: #244319;
+	color: #fff;
+	font-size: 14px;
+	text-indent: 20px;
+	padding: 5px;
+	padding-bottom: 10px;
+}
+.color img {
+	margin-left: 105px;
+}
+.font p {
+	background-color: #21759b;
+	color: #fff;
+	font-size: 14px;
+	text-indent: 20px;
+	padding: 5px;
+	padding-bottom: 10px;
+	font-family: monospace;
+}
+.sosanh p {
+	background-color: #244319;
+	color: #fff;
+	font-size: 14px;
+	text-indent: 20px;
+	padding: 5px;
+	padding-bottom: 10px;
+}
+.demo p {
+	font-weight: bolder;
+	font-size: 15px;
+	padding-top: 35px;
+	color: red;
+}
+.demo2 {
+	font-size: 15px;
+	padding-top: 35px;
+}
+	
+.footer {
+	height: 100px;
+}
